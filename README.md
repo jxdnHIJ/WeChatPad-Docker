@@ -1,8 +1,25 @@
 # WeChatPadPro
 
+WeChatPadPro 是基于 WeChat Pad 协议的高级微信管理工具，支持以下功能：
 
-WeChatPadPro 是基于 WeChat Pad 协议的高级微信管理工具，支持朋友圈收发与互动（点赞、评论）、好友管理（添加、删除、清理僵尸粉）、消息收发（文本、图片、名片、动图、文件）、微信支付（转账、红包）、小程序和名片分享、通讯录好友添加、微信收藏、标签管理等。 此外，还支持强大的群管理功能，包括消息群发、自动通过好友请求、建群、拉人进群、踢群成员、邀请成员、退群、修改群名称、群公告发布、多群消息同步等。 适用于个人微信增强、运营管理和自动化交互，提升微信使用效率和管理能力。
+- 朋友圈收发与互动（点赞、评论）
+- 好友管理（添加、删除、清理僵尸粉）
+- 消息收发（文本、图片、名片、动图、文件）
+- 微信支付（转账、红包）
+- 小程序和名片分享
+- 通讯录好友添加
+- 微信收藏
+- 标签管理
 
+此外，还支持强大的群管理功能，包括：
+
+- 消息群发
+- 自动通过好友请求
+- 建群、拉人进群、踢群成员、邀请成员、退群
+- 修改群名称、群公告发布
+- 多群消息同步等
+
+WeChatPadPro 适用于个人微信增强、运营管理和自动化交互，提升微信使用效率和管理能力。
 
 ## 赞助
 
@@ -10,13 +27,17 @@ WeChatPadPro 是基于 WeChat Pad 协议的高级微信管理工具，支持朋�
 
 如果您愿意通过微信支付支持这个项目，您可以扫描下面的二维码进行捐赠：
 
-![微信群二维码](https://github.com/user-attachments/assets/0cb52c25-ef3c-4e70-858b-9b89eae7e780) ![微信支付二维码](https://raw.githubusercontent.com/luolin-ai/CozeBot-WxworkPro/main/tu/106f2de5438c9c7cfd35e00a989b0cd.jpg)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0cb52c25-ef3c-4e70-858b-9b89eae7e780" alt="微信群二维码" width="200" style="margin-right: 20px;">
+  <img src="https://raw.githubusercontent.com/luolin-ai/CozeBot-WxworkPro/main/tu/106f2de5438c9c7cfd35e00a989b0cd.jpg" alt="微信支付二维码" width="200">
+</div>
 
 ### 捐赠说明
 
 - 捐赠金额完全自愿，没有强制要求，任何金额都非常感谢您的支持。
+- 您的支持将帮助我们提供更好的服务和开发更多有用的功能。
 
-您的支持将帮助我们提供更好的服务和开发更多有用的功能。感谢您的关注与贡献！
+感谢您的关注与贡献！
 
 ## 联系我们
 
