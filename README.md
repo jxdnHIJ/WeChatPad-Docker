@@ -18,7 +18,6 @@ WeChatPadPro 是基于 WeChat Pad 协议的高级微信管理工具，支持以�
 - 建群、拉人进群、踢群成员、邀请成员、退群
 - 修改群名称、群公告发布
 - 多群消息同步等
-![图片_20250425223022](https://github.com/user-attachments/assets/b1fdce06-bb3b-4a33-a728-c1d3faacd8ba)
 
 WeChatPadPro 适用于个人微信增强、运营管理和自动化交互，提升微信使用效率和管理能力。
 
@@ -29,7 +28,7 @@ WeChatPadPro 适用于个人微信增强、运营管理和自动化交互，提�
 如果您愿意通过微信支付支持这个项目，您可以扫描下面的二维码进行捐赠：
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0cb52c25-ef3c-4e70-858b-9b89eae7e780" alt="微信群二维码" width="200" style="margin-right: 20px;">
+  <img src="https://github.com/user-attachments/assets/e6528407-71e0-4d32-9b7d-2148cbf852ee" alt="微信群二维码" width="200" style="margin-right: 20px;">
   <img src="https://raw.githubusercontent.com/luolin-ai/CozeBot-WxworkPro/main/tu/106f2de5438c9c7cfd35e00a989b0cd.jpg" alt="微信支付二维码" width="200">
 </div>
 
