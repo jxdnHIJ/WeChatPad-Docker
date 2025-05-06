@@ -26,9 +26,12 @@ WeChatPadPro 适用于个人微信增强、运营管理和自动化交互，提�
 感谢您访问这个开源项目！如果您觉得这个项目对您有帮助，您可以选择通过以下方式进行捐赠，以支持我们继续开发和维护。
 
 如果您愿意通过微信支付支持这个项目，您可以扫描下面的二维码进行捐赠：
+## 📢 社群交流
 
+欢迎加入 Telegram 群组参与交流讨论：
+
+👉 [点击加入](https://t.me/+LK0JuqLxjmk0ZjRh)
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e6528407-71e0-4d32-9b7d-2148cbf852ee" alt="微信群二维码" width="200" style="margin-right: 20px;">
   <img src="https://raw.githubusercontent.com/luolin-ai/CozeBot-WxworkPro/main/tu/106f2de5438c9c7cfd35e00a989b0cd.jpg" alt="微信支付二维码" width="200">
 </div>
 
