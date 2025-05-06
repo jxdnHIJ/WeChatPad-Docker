@@ -31,11 +31,8 @@ WeChatPadPro 适用于个人微信增强、运营管理和自动化交互，提�
 欢迎加入 Telegram 群组参与交流讨论：
 
 👉 [点击加入](https://t.me/+LK0JuqLxjmk0ZjRh)
-<div align="center">
-    <img src="https://raw.githubusercontent.com/luolin-ai/CozeBot-WxworkPr![Uploading 图片_20250505154457.jpg…]()
-o/main/tu/106f2de5438c9c7cfd35e00a989b0cd.jpg" alt="微信支付二维码" width="200">
+![图片_20250505154457](https://github.com/user-attachments/assets/26895639-c01b-46ae-881d-2763933a2f25)
 
-</div>
 
 ### 捐赠说明
 
