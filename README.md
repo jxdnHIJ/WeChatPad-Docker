@@ -32,7 +32,9 @@ WeChatPadPro 适用于个人微信增强、运营管理和自动化交互，提�
 
 👉 [点击加入](https://t.me/+LK0JuqLxjmk0ZjRh)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/luolin-ai/CozeBot-WxworkPro/main/tu/106f2de5438c9c7cfd35e00a989b0cd.jpg" alt="微信支付二维码" width="200">
+    <img src="https://raw.githubusercontent.com/luolin-ai/CozeBot-WxworkPr![Uploading 图片_20250505154457.jpg…]()
+o/main/tu/106f2de5438c9c7cfd35e00a989b0cd.jpg" alt="微信支付二维码" width="200">
+
 </div>
 
 ### 捐赠说明
