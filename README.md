@@ -31,9 +31,8 @@ WeChatPadPro 适用于个人微信增强、运营管理和自动化交互，提�
 欢迎加入 Telegram 群组参与交流讨论：
 
 👉 [点击加入](https://t.me/+LK0JuqLxjmk0ZjRh)
-加小助手入群
-![WeChat截图_20250506233732](https://github.com/user-attachments/assets/90934939-bbd4-4cf7-95e7-9bcd793c554f)
 
+![dbccc41c41d86bf86eee7fcdc83eec7](https://github.com/user-attachments/assets/30353400-29f8-4544-84ad-18e7deaaed73)
 
 ### 捐赠说明
 
