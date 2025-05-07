@@ -27,8 +27,16 @@ WeChatPadPro 适用于个人微信增强、运营管理和自动化交互，提�
 
 如果您愿意通过微信支付支持这个项目，您可以扫描下面的二维码进行捐赠：
 ## 📢 社群交流
-![微信群二维码](https://github.com/user-attachments/assets/30353400-29f8-4544-84ad-18e7deaaed73 =300x300)
-![微信支付二维码](https://raw.githubusercontent.com/luolin-ai/CozeBot-WxworkPro/main/tu/106f2de5438c9c7cfd35e00a989b0cd.jpg =300x300)
+## 扫描二维码加入微信群
+
+如果你想加入我们的微信群，可以扫描以下二维码：
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/user-attachments/assets/30353400-29f8-4544-84ad-18e7deaaed73" width="300px" />
+  <img src="https://raw.githubusercontent.com/luolin-ai/CozeBot-WxworkPro/main/tu/106f2de5438c9c7cfd35e00a989b0cd.jpg" width="300px" />
+</div>
+
+
 
 欢迎加入 Telegram 群组参与交流讨论：
 
