@@ -58,7 +58,7 @@ WeChatPadPro 适用于个人微信增强、运营管理和自动化交互，提�
 
 感谢您的支持和鼓励！
 
-![img_6.png](img_6.png)
+![image](https://github.com/user-attachments/assets/3a552aa4-1cc0-4c3f-a170-06e9ba8ac3ac)
 ![img.png](img.png)
 ![img_1.png](img_1.png)
 ![img_2.png](img_2.png)
