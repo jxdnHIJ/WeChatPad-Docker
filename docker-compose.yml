@@ -49,7 +49,7 @@ services:
     container_name: wechatpad
     image: alpine:latest
     ports:
-      - "9090:8849"
+      - "9090:8059"
     restart: always
     depends_on:
       mysql_wx:
