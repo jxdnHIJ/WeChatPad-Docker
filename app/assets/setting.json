@@ -4,7 +4,7 @@
   "port": "8059",
   "apiVersion": "",
   "ghWxid": "",
-  "adminKey": "stay33",
+  "adminKey": "TestAdminKey",
   "workerpoolsize": 500,
   "maxworkertasklen": 1000,
   "redisConfig": {
