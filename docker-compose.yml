@@ -12,7 +12,7 @@ services:
       options:
         max-size: "5g"
     environment:
-      MYSQL_ROOT_PASSWORD: 4JkSD2RdJppiHdNT
+      MYSQL_ROOT_PASSWORD: 594886
       MYSQL_ROOT_HOST: '%'
       MYSQL_DATABASE: weixin
     volumes:
