@@ -4,7 +4,7 @@
             "port": "8057"
         },
         "swagger_loader": {
-            "command": "swagger-mcp",
+            "command": "/app/assets/swagger-mcp",
             "args": [
                 "--specUrl=http://localhost:8059/docs/swagger.json",
                 "-sse",
