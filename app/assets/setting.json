@@ -8,18 +8,18 @@
   "workerpoolsize": 500,
   "maxworkertasklen": 1000,
   "redisConfig": {
-    "Host": "192.168.198.128",
+    "Host": "redis_wx",
     "Port": 6379,
     "Db": 1,
     "User": "",
-    "Pass": "123456",
+    "Pass": "test_redis",
     "MaxIdle": 10,
     "MaxActive": 20,
     "IdleTimeout": 5000,
     "MaxConnLifetime": 30,
     "ConnectTimeout": 0
   },
-  "mySqlConnectStr": "weixin:4JkSD2RdJppiHdNT@tcp(192.168.198.128:3306)/weixin?charset=utf8mb4&parseTime=true&loc=Local",
+  "mySqlConnectStr": "root:test_mysql@tcp(mysql_wx:3306)/weixin?charset=utf8mb4&parseTime=true&loc=Local",
   "disabledCmdList": [
     "A000"
   ],
