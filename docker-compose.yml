@@ -12,9 +12,9 @@ services:
       options:
         max-size: "5g"
     environment:
-      MYSQL_ROOT_PASSWORD: test_mysql
+      MYSQL_ROOT_PASSWORD: 4JkSD2RdJppiHdNT
       MYSQL_ROOT_HOST: '%'
-      MYSQL_DATABASE: wechatpadpro
+      MYSQL_DATABASE: weixin
     volumes:
       - "./mysql/data:/var/lib/mysql"
       - "./mysql/config:/etc/mysql/conf.d"
