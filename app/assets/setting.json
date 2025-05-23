@@ -19,7 +19,7 @@
     "MaxConnLifetime": 30,
     "ConnectTimeout": 0
   },
-  "mySqlConnectStr": "weixin:4JkSD2RdJppiHdNT@tcp(mysql_wx:3306)/weixin?charset=utf8mb4&parseTime=true&loc=Local",
+  "mySqlConnectStr": "root:594886@tcp(mysql_wx:3306)/weixin?charset=utf8mb4&parseTime=true&loc=Local",
   "disabledCmdList": [
     "A000"
   ],
