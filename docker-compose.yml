@@ -79,14 +79,20 @@ services:
       context: .
       dockerfile: Dockerfile.swagger
     container_name: swagger_mcp
-    ports:
-      - "8058:8058"
+    volumes:
+      - ./app/assets:/app/assets
+    working_dir: /app/assets
+    command: ["/app/assets/swagger-mcp", 
+              "--specUrl=http://wechatpad:8059/docs/swagger.json",
+              "-sse",
+              "--sseAddr=:8058",
+              "--baseUrl=http://wechatpad:8059"]
     depends_on:
-      wechatpad:
-        condition: service_started
+      - wechatpad
     networks:
       - langbot-network
-    restart: always
+    ports:
+      - "8058:8058" # SSE端口，如需暴露
 
 networks:
   langbot-network:
