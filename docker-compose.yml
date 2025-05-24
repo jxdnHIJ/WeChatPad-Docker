@@ -47,7 +47,7 @@ services:
 
   wechatpad:
     container_name: wechatpad
-    image: frolvlad/alpine-glibc:alpine-3.14_glibc-2.34
+    image: frolvlad/alpine-glibc:alpine-3.17_glibc-2.34
     ports:
       - "9090:8059"
     restart: always
