@@ -1,0 +1,10 @@
+# Dockerfile.swagger
+FROM debian:bookworm
+
+WORKDIR /app/assets
+
+COPY ./app/assets /app/assets
+
+RUN chmod +x /app/assets/swagger-mcp
+
+CMD ["/app/assets/swagger-mcp", "--specUrl=http://localhost:8059/docs/swagger.json", "-sse", "--sseAddr=:8058", "--baseUrl=http://localhost:8059"]
