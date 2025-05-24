@@ -47,7 +47,7 @@ services:
 
   wechatpad:
     container_name: wechatpad
-    image: alpine:latest
+    image: frolvlad/alpine-glibc:alpine-3.14_glibc-2.34
     ports:
       - "9090:8059"
     restart: always
@@ -74,26 +74,6 @@ services:
     networks:
       - langbot-network
   
-  swagger_mcp:
-    build:
-      context: .
-      dockerfile: Dockerfile.swagger
-    container_name: swagger_mcp
-    volumes:
-      - ./app/assets:/app/assets
-    working_dir: /app/assets
-    command: ["/app/assets/swagger-mcp", 
-              "--specUrl=http://wechatpad:8059/docs/swagger.json",
-              "-sse",
-              "--sseAddr=:8058",
-              "--baseUrl=http://wechatpad:8059"]
-    depends_on:
-      - wechatpad
-    networks:
-      - langbot-network
-    ports:
-      - "8058:8058" # SSE端口，如需暴露
-
 networks:
   langbot-network:
     external: true
