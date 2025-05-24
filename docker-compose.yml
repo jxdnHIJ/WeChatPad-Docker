@@ -73,6 +73,19 @@ services:
       - LC_ALL=zh_CN.UTF-8
     networks:
       - langbot-network
+  swagger_mcp:
+    build:
+      context: .
+      dockerfile: Dockerfile.swagger
+    container_name: swagger_mcp
+    ports:
+      - "8058:8058"
+    depends_on:
+      wechatpad:
+        condition: service_started
+    networks:
+      - langbot-network
+    restart: always
 
 networks:
   langbot-network:
